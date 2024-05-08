@@ -1,0 +1,35 @@
+{
+  "homePage": {
+    "homeBanner": {
+      "bannerSlider": [
+        {
+          "title": "Cybersecurity",
+          "subtitle": "Solutions",
+          "content": "We help leading companies worldwide keep their digital realms secure via hands-on consulting, vulnerability management, penetration testing and more.",
+          "buttonLabel": "Protect Your Data"
+        },
+        {
+          "title": "IT & Web",
+          "subtitle": "Development",
+          "content": "Custom programming for advanced and high performance demands including e-commerce and custom corporate applications and presentations.",
+          "buttonLabel": "Build Together"
+        },
+        {
+          "title": "Digital",
+          "subtitle": "Marketing",
+          "content": "Take advantage of our highly skilled teams in Video Production, SEO, Virtual Reality, 3D Animation and all manner of marketing materials design.",
+          "buttonLabel": "Promote Effectively"
+        }
+      ]
+    },
+    "homeAbout": {
+      "title": "SEIRIM is a System"
+    },
+    "homeWhatWeOffer": {
+      "title": "SEIRIM is a System",
+      "cybersecurity": {
+        "title": "Security from the ground up"
+      }
+    }
+  }
+}

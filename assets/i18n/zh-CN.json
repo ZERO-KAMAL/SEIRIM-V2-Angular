@@ -1,0 +1,35 @@
+{
+  "homePage": {
+    "homeBanner": {
+      "bannerSlider": [
+        {
+          "title": "网络安全 ",
+          "subtitle": "解决方案",
+          "content": "We help leading companies worldwide keep their digital realms secure via hands-on consulting, vulnerability management, penetration testing and more.",
+          "buttonLabel": "开启安全防护"
+        },
+        {
+          "title": "信息技术与网络",
+          "subtitle": "发展",
+          "content": "Custom programming for advanced and high performance demands including e-commerce and custom corporate applications and presentations.",
+          "buttonLabel": "开启安全防护"
+        },
+        {
+          "title": "数字",
+          "subtitle": "营销",
+          "content": "Take advantage of our highly skilled teams in Video Production, SEO, Virtual Reality, 3D Animation and all manner of marketing materials design.",
+          "buttonLabel": "开启安全防护"
+        }
+      ]
+    },
+    "homeAbout": {
+      "title": "SEIRIM是一个系统"
+    },
+    "homeWhatWeOffer": {
+      "title": "我们能为您提供什么",
+      "cybersecurity": {
+        "title": "从零打造网络安全防护"
+      }
+    }
+  }
+}
