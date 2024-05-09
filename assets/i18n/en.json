@@ -1,4 +1,11 @@
 {
+  "navbar": {
+    "service": "service",
+    "caseStudy": "case study",
+    "about": "about",
+    "resources": "resources",
+    "contact": "contact"
+  },
   "homePage": {
     "homeBanner": {
       "bannerSlider": [
@@ -6,7 +13,7 @@
           "title": "Cybersecurity",
           "subtitle": "Solutions",
           "content": "We help leading companies worldwide keep their digital realms secure via hands-on consulting, vulnerability management, penetration testing and more.",
-          "buttonLabel": "Protect Your Data"
+          "buttonLabel": "GET SECURE"
         },
         {
           "title": "IT & Web",
@@ -20,7 +27,38 @@
           "content": "Take advantage of our highly skilled teams in Video Production, SEO, Virtual Reality, 3D Animation and all manner of marketing materials design.",
           "buttonLabel": "Promote Effectively"
         }
-      ]
+      ],
+      "bannerNews": {
+        "title": "Latest News",
+        "newsList": [
+          {
+            "date": "2-Aug-23",
+            "title": "CYBERSECURITY",
+            "content": "White paper on secure software developmernt practices for 2023 published"
+          },
+          {
+            "date": "3-Aug-23",
+            "title": "CYBERSECURITY",
+            "content": "Hypersecure CMS updated with latest security enhancements and Passkey support"
+          },
+          {
+            "date": "4-Aug-23",
+            "title": "CYBERSECURITY",
+            "content": "Top 20 threat intelligence feeds and sevices for SME's "
+          }
+        ]
+      },
+      "bannerFooter": {
+        "liveChat": {
+          "text1": "LIVE CHAT: ONLINE",
+          "text2": "CLICK HERE"
+        },
+        "time": "SHANGHAI: 16:45:55 GMT +8 ",
+        "theme": {
+          "light": "Light",
+          "dark": "Drak"
+        }
+      }
     },
     "homeAbout": {
       "title": "SEIRIM is a System"

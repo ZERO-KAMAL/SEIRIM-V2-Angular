@@ -1,11 +1,18 @@
 {
+  "navbar": {
+    "service": "服务",
+    "caseStudy": "案例研究",
+    "about": "关于",
+    "resources": "资讯",
+    "contact": "联系我们"
+  },
   "homePage": {
     "homeBanner": {
       "bannerSlider": [
         {
-          "title": "网络安全 ",
+          "title": "网络安全",
           "subtitle": "解决方案",
-          "content": "We help leading companies worldwide keep their digital realms secure via hands-on consulting, vulnerability management, penetration testing and more.",
+          "content": "SERIM通过专业咨询、漏洞管理、渗透测试等服务帮助全球领先公司守护其数字领域安全。",
           "buttonLabel": "开启安全防护"
         },
         {
@@ -20,7 +27,38 @@
           "content": "Take advantage of our highly skilled teams in Video Production, SEO, Virtual Reality, 3D Animation and all manner of marketing materials design.",
           "buttonLabel": "开启安全防护"
         }
-      ]
+      ],
+      "bannerNews": {
+        "title": "最新资讯",
+        "newsList": [
+          {
+            "date": "8/2/2023",
+            "title": "网络安全",
+            "content": "2023 年安全软件开发实践白皮书的发布"
+          },
+          {
+            "date": "8/3/2023",
+            "title": "网络安全",
+            "content": "超级安全 CMS 已更新，兼具最新的安全增强和密码支持功能"
+          },
+          {
+            "date": "8/4/2023",
+            "title": "网络安全",
+            "content": "中小企业面临的前 20 名威胁情报源和服务"
+          }
+        ]
+      },
+      "bannerFooter": {
+        "liveChat": {
+          "text1": "在线咨询 ",
+          "text2": "点击此处"
+        },
+        "time": "上海：16:45:55 GMT +8 ",
+        "theme": {
+          "light": "日间模式",
+          "dark": "夜间模式"
+        }
+      }
     },
     "homeAbout": {
       "title": "SEIRIM是一个系统"
