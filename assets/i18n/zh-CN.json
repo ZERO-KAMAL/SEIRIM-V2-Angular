@@ -2,9 +2,139 @@
   "navbar": {
     "service": "服务",
     "caseStudy": "案例研究",
-    "about": "关于",
+    "company": "公司",
     "resources": "资讯",
     "contact": "联系我们"
+  },
+  "footer": {
+    "elsewhereInTheWebsite": "网站其他 ",
+    "liveChat": {
+      "text1": "在线咨询 ",
+      "text2": "点击此处"
+    },
+    "language": "语言 ",
+    "cybersecurityLinks": {
+      "links": [
+        {
+          "text": "网络安全咨询"
+        },
+        {
+          "text": "渗透测试"
+        },
+        {
+          "text": "风险评估"
+        },
+        {
+          "text": "漏洞扫描"
+        },
+        {
+          "text": "系统强化"
+        },
+        {
+          "text": "事件响应"
+        },
+        {
+          "text": "安全管理"
+        }
+      ]
+    },
+    "developmentLinks": {
+      "links": [
+        {
+          "text": "定制CMS系统"
+        },
+        {
+          "text": "电子商务 "
+        },
+        {
+          "text": "企业网站 "
+        },
+        {
+          "text": "定制软件 "
+        },
+        {
+          "text": "移动应用程序和游戏"
+        },
+        {
+          "text": "外包开发"
+        }
+      ]
+    },
+    "marketingLinks": {
+      "links": [
+        {
+          "text": "视频制作"
+        },
+        {
+          "text": "3D动画 "
+        },
+        {
+          "text": "虚拟现实 "
+        },
+        {
+          "text": "搜索引擎优化"
+        },
+        {
+          "text": "营销材料"
+        }
+      ]
+    },
+    "tools": {
+      "title": "工具",
+      "links": [
+        {
+          "text": "无障碍中国网站"
+        },
+        {
+          "text": "WHOIS/域名信息"
+        },
+        {
+          "text": "安全密码共享器"
+        },
+        {
+          "text": "SSL 状态"
+        },
+        {
+          "text": "SPF / DKIM / DMARC"
+        },
+        {
+          "text": "黑名单 URL 列表检查"
+        },
+        {
+          "text": "解析 & 内部校验"
+        },
+        {
+          "text": "我的IP/反向IP"
+        }
+      ]
+    },
+    "policy": {
+      "privacyPolicy": "隐私政策",
+      "termsAndService": "条款和条件",
+      "siteMap": "网站地图"
+    }
+  },
+  "commonTitle": {
+    "cybersecurity": {
+      "title": "网络安全",
+      "subtitle": "我们安全团队高度专业的实践经验。",
+      "buttonText": " 网络安全案例研究 "
+    },
+    "development": {
+      "title": "发展",
+      "subtitle": "十几年间已交付的高效能项目。",
+      "buttonText": " 发展案例研究"
+    },
+    "marketing": {
+      "title": "数字营销",
+      "subtitle": "令项目变得生动的技能和愿景。",
+      "buttonText": " 数字营销案例研究 "
+    },
+    "news": {
+      "subtitle": "新闻与博客",
+      "title": "最新资讯",
+      "buttonText": "查阅所有文章"
+    }
   },
   "homePage": {
     "homeBanner": {
@@ -18,14 +148,14 @@
         {
           "title": "信息技术与网络",
           "subtitle": "发展",
-          "content": "Custom programming for advanced and high performance demands including e-commerce and custom corporate applications and presentations.",
-          "buttonLabel": "开启安全防护"
+          "content": "满足高阶和高性能需求的定制编程，包括电子商务和定制企业应用程序及演示文稿。",
+          "buttonLabel": "共同创建"
         },
         {
           "title": "数字",
           "subtitle": "营销",
-          "content": "Take advantage of our highly skilled teams in Video Production, SEO, Virtual Reality, 3D Animation and all manner of marketing materials design.",
-          "buttonLabel": "开启安全防护"
+          "content": "我们擅长视频制作、SEO、虚拟现实、3D 动画和各种营销材料设计的高技能团队。",
+          "buttonLabel": "高效推广"
         }
       ],
       "bannerNews": {
@@ -61,13 +191,160 @@
       }
     },
     "homeAbout": {
-      "title": "SEIRIM是一个系统"
+      "subTitle": "SEIRIM是什么",
+      "title": "SEIRIM是一个系统",
+      "content": {
+        "text1": "自 2012 年成立以来， SEIRIM 一直致力于提高我们编码、设计和交付网站、网络安全和 IT 解决方案的能力。",
+        "text2": "我们热爱自己的工作，并乐于为我们尊敬的客户完成好工作。"
+      },
+      "buttonText": "了解更多",
+      "cards": [
+        {
+          "text": "已交付的网站和 IT 项目。"
+        },
+        {
+          "text": "重点客户报酬水平。"
+        },
+        {
+          "text": "由我们 CMS 管理的产品。 "
+        },
+        {
+          "text": "应用于不同项目的语言。"
+        },
+        {
+          "text": "团队成员遍布中国和东南亚。"
+        }
+      ]
     },
     "homeWhatWeOffer": {
-      "title": "我们能为您提供什么",
+      "subtitle": "我们的方案 ",
+      "title": "SEIRIM 是一个系统",
+      "des": "SEIRIM 团队由专业度高且技能覆盖范围广的人员组成，他们在团队中承担了不同角色，以创建一支能够交付重大项目和目标的先进 IT 和安全开发团队。",
       "cybersecurity": {
-        "title": "从零打造网络安全防护"
+        "title": "从零打造网络安全防护 ",
+        "content": {
+          "text1": "我们的网络安全服务是为那些寻求应对超出其预期风险和未知威胁的公司量身定制的。",
+          "text2": " 我们提供易于理解且清晰的第一步，稳步创建、加强技术和运营保障措施，以确保您公司的网络安全。 无论您公司当前的情况如何，无论您是需要从零开始还是添加服务以提升效能，我们都拥有您所需的技能。"
+        },
+        "buttonText": "开启网络安全服务",
+        "services": {
+          "title": "专业网络安全服务",
+          "serviceList": [
+            {
+              "text": "风险评估"
+            },
+            {
+              "text": "事件响应 "
+            },
+            {
+              "text": "渗透测试"
+            },
+            {
+              "text": "漏洞扫描与管理"
+            },
+            {
+              "text": "托管定制服务 "
+            },
+            {
+              "text": "系统强化 "
+            },
+            {
+              "text": "应用安全开发"
+            },
+            {
+              "text": "网络安全咨询"
+            }
+          ]
+        }
+      },
+      "Development": {
+        "title": "将想法变成现实",
+        "content": {
+          "text1": "十多年来，我们的高级开发人员从零开始构建了无数类型的网络应用程序，构建了我们自己的工具、方案和框架来应对许多挑战。",
+          "text2": " 无论是我们专门为安全先锋而构建的定制 CMS、虚拟现实空间内的互动教室、移动设备游戏、电子商务网站，还是一个高性能的企业网站，我们的团队都拥有实现这一目标的技能和经验。 只要您有需求，我们就能实现。"
+        },
+        "buttonText": "前往开发服务",
+        "services": {
+          "title": "定制 IT 和 Web 编程",
+          "serviceList": [
+            {
+              "text": "电子商务"
+            },
+            {
+              "text": "网络应用程序"
+            },
+            {
+              "text": "企业演示"
+            },
+            {
+              "text": "移动应用程序"
+            },
+            {
+              "text": "定制软件"
+            },
+            {
+              "text": "高性能网站 "
+            },
+            {
+              "text": "SEO 专业网站"
+            },
+            {
+              "text": "虚拟现实框架"
+            }
+          ]
+        }
+      },
+      "digitalMarketing": {
+        "title": "让你的熠熠生辉",
+        "content": {
+          "text1": "您的网络项目也许安全且运行良好，但是它的呈现足够精美吗？",
+          "text2": "我们的专业团队通过定制 SEO 活动（带来最高排名），提供令人惊叹的视频制作、令人印象深刻的 3D 动画和专业设计的创意营销材料等，让我们的客户脱颖而出并蓬勃发展。"
+        },
+        "buttonText": "前往数字营销服务",
+        "services": {
+          "title": "专业设计和数字营销",
+          "serviceList": [
+            {
+              "text": "视频制作"
+            },
+            {
+              "text": "3D 动画"
+            },
+            {
+              "text": "搜索引擎优化"
+            },
+            {
+              "text": "营销材料"
+            },
+            {
+              "text": "虚拟现实空间"
+            },
+            {
+              "text": "用户界面/用户体验设计"
+            },
+            {
+              "text": "网站设计"
+            },
+            {
+              "text": "印刷和实物产品设计"
+            }
+          ]
+        }
       }
+    },
+    "homeCaseStudy": {
+      "title": "我们的解决方案",
+      "subTitle": "案例研究",
+      "content": "SEIRIM 最初是一家总部位于上海的精品网络开发和编程机构，在十多年的发展中，SEIRIM 已转变为一家在网络、营销等领域首选的网络安全 IT 方案提供商。",
+      "buttonText": "主要案例研究"
+    },
+    "homeInquiry": {
+      "title": {
+        "text1": "让",
+        "text2": "为您服务."
+      },
+      "content": "SEIRIM 通过实践咨询、漏洞管理、渗透测试等帮助全球领先的公司确保其数字领域的安全。",
+      "buttonText": "立即咨询"
     }
   }
 }

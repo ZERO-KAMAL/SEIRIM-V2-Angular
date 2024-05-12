@@ -2,9 +2,139 @@
   "navbar": {
     "service": "service",
     "caseStudy": "case study",
-    "about": "about",
+    "company": "Company",
     "resources": "resources",
     "contact": "contact"
+  },
+  "footer": {
+    "elsewhereInTheWebsite": "ELSEWHERE ON THE WEB:",
+    "liveChat": {
+      "text1": "LIVE CHAT: ONLINE",
+      "text2": "CLICK HERE"
+    },
+    "language": "Language",
+    "cybersecurityLinks": {
+      "links": [
+        {
+          "text": "Cybersecurity Consulting"
+        },
+        {
+          "text": "Penetration Testing"
+        },
+        {
+          "text": "Risk Assessment"
+        },
+        {
+          "text": "Vulnerability Scanning"
+        },
+        {
+          "text": "Systems Hardening"
+        },
+        {
+          "text": "Incident Response"
+        },
+        {
+          "text": "Managed Security"
+        }
+      ]
+    },
+    "developmentLinks": {
+      "links": [
+        {
+          "text": "Custom CMS Systems"
+        },
+        {
+          "text": "E-Commerce "
+        },
+        {
+          "text": "Corporate Websites"
+        },
+        {
+          "text": "Custom Software "
+        },
+        {
+          "text": "Mobile Apps & Games"
+        },
+        {
+          "text": "Outsourced Development"
+        }
+      ]
+    },
+    "marketingLinks": {
+      "links": [
+        {
+          "text": "Video Production"
+        },
+        {
+          "text": "3D Animation "
+        },
+        {
+          "text": "Virtual Reality "
+        },
+        {
+          "text": "SEO Campaigns"
+        },
+        {
+          "text": "Marketing Materials"
+        }
+      ]
+    },
+    "tools": {
+      "title": "TOOLS",
+      "links": [
+        {
+          "text": "China Website Accessibility          "
+        },
+        {
+          "text": "WHOIS / Domain Name Info"
+        },
+        {
+          "text": "Secure Password Sharer"
+        },
+        {
+          "text": "SSL Status"
+        },
+        {
+          "text": "SPF / DKIM / DMARC"
+        },
+        {
+          "text": "Blacklist URL List Check"
+        },
+        {
+          "text": "Hosted by & Built With Check"
+        },
+        {
+          "text": "Whats My IP / Reverse IP          "
+        }
+      ]
+    },
+    "policy": {
+      "privacyPolicy": "PRIVACY POLICY      ",
+      "termsAndService": "TERMS & CONDITIONS      ",
+      "siteMap": "SITEMAP      "
+    }
+  },
+  "commonTitle": {
+    "cybersecurity": {
+      "title": "Cybersecurity      ",
+      "subtitle": "Hands-on experiences from our highly professional security team.",
+      "buttonText": " CYBERSECURITY CASE STUDIES      "
+    },
+    "development": {
+      "title": "Development",
+      "subtitle": "Over a decade delivering high performance projects.",
+      "buttonText": " DEVELOPMENT CASE STUDIES      "
+    },
+    "marketing": {
+      "title": "Digital Marketing",
+      "subtitle": "The skills and vision to make projects come alive.",
+      "buttonText": " DIGITAL MARKETING CASE STUDIES "
+    },
+    "news": {
+      "subtitle": "GET LATEST UPDATES",
+      "title": "News & Blog ",
+      "buttonText": "VIEW ALL ARTICLES"
+    }
   },
   "homePage": {
     "homeBanner": {
@@ -61,13 +191,160 @@
       }
     },
     "homeAbout": {
-      "title": "SEIRIM is a System"
+      "subTitle": "WHO IS SEIRIM",
+      "title": "SEIRIM is a System",
+      "content": {
+        "text1": "Since founding in 2012, we have been dedicated to always improving how powerfully we code, design and deliver websites, cybersecurity and IT solutions.",
+        "text2": "We love our work and love to work well for our esteemed clients."
+      },
+      "buttonText": "LEARN MORE",
+      "cards": [
+        {
+          "text": "Website and IT Projects Delivered."
+        },
+        {
+          "text": "Largest Client Revenue Level."
+        },
+        {
+          "text": "Products Managed by our CMS. "
+        },
+        {
+          "text": "Languages of Different Projects."
+        },
+        {
+          "text": "Team Members Across China and Southeast Asia."
+        }
+      ]
     },
     "homeWhatWeOffer": {
+      "subtitle": "OUR SOLUTIONS ",
       "title": "SEIRIM is a System",
+      "des": "The SEIRIM group is purposefully comprised of deep and wide skillsets, roles and personnel to create an advanced IT and security development team capable of delivering major projects and goals.",
       "cybersecurity": {
-        "title": "Security from the ground up"
+        "title": "Security from the ground up",
+        "content": {
+          "text1": "Our cybersecurity services are tailored for companies seeking to catch up with the risks and unknown threats surpassing their readiness. ",
+          "text2": "We offer accessible, easily approachable first steps and clarity to steadily create and bolster the technical and operational safeguards to keep your company safe. No matter your current scenario, whether starting at ground level or needing to add services to augment ongoing efforts we have the skills you need."
+        },
+        "buttonText": "GO TO CYBERSECURITY SERVICE",
+        "services": {
+          "title": "Specialized Security Services",
+          "serviceList": [
+            {
+              "text": "Risk Assessments"
+            },
+            {
+              "text": "Incident Response"
+            },
+            {
+              "text": "Penetration Testing"
+            },
+            {
+              "text": "Vulnerability Scanning & Management"
+            },
+            {
+              "text": "Managed Custom Services"
+            },
+            {
+              "text": "System Hardening "
+            },
+            {
+              "text": "Application Secure Development"
+            },
+            {
+              "text": "Cybersecurity Consulting"
+            }
+          ]
+        }
+      },
+      "Development": {
+        "title": "Building Ideas into Reality",
+        "content": {
+          "text1": "For over a decade, our senior developers have built myriad types of applications for the web from the ground up, building our own tools, solutions and frameworks to solve many challenges.          ",
+          "text2": " Whether it’s our own custom CMS especially built to be at the vanguard of security, interactive classrooms inside of virtual reality spaces, mobile device games, e-commerce websites or simply a high performance corporate website our team has the skills and experience to make it happen. If you can dream it, we can build it. "
+        },
+        "buttonText": "GO TO DEVELOPMENT SERVICES",
+        "services": {
+          "title": "Custom IT & Web Programming",
+          "serviceList": [
+            {
+              "text": "E-Commerce"
+            },
+            {
+              "text": "Web Applications "
+            },
+            {
+              "text": "Corporate Presentations"
+            },
+            {
+              "text": "Mobile Applications "
+            },
+            {
+              "text": "Custom Software"
+            },
+            {
+              "text": "High Performance Websites"
+            },
+            {
+              "text": "SEO Specialized Sites"
+            },
+            {
+              "text": "Virtual Reality Frameworks "
+            }
+          ]
+        }
+      },
+      "digitalMarketing": {
+        "title": "Making your Offerings Shine",
+        "content": {
+          "text1": "Your project is secure and works well, but does it look good?          ",
+          "text2": "Our specialized teams make our clients shine and thrive with custom SEO campaigns resulting in top rankings, video productions that wow, 3D animations that impress, professionally designed marketing materials that capture the imagination and more."
+        },
+        "buttonText": "GO TO DIGITAL MARKETING SERVICES",
+        "services": {
+          "title": "Professional Design and Digital Marketing",
+          "serviceList": [
+            {
+              "text": "Video Production"
+            },
+            {
+              "text": "3D Animation "
+            },
+            {
+              "text": "SEO Campaigns"
+            },
+            {
+              "text": "Marketing Materials"
+            },
+            {
+              "text": "Virtual Reality Spaces"
+            },
+            {
+              "text": "UI/UX Design"
+            },
+            {
+              "text": "Website Design"
+            },
+            {
+              "text": "Print & Physical Products Design"
+            }
+          ]
+        }
       }
+    },
+    "homeCaseStudy": {
+      "subTitle": "OUR SOLUTIONS",
+      "title": "Case Studies",
+      "content": "Founded as a boutique Shanghai-based web development and programming agency, SEIRIM has transformed over its decade+ history into a cybersecurity-first IT solutions provider for web, marketing and beyond.",
+      "buttonText": "CASE STUDIES MAIN"
+    },
+    "homeInquiry": {
+      "title": {
+        "text1": "Put",
+        "text2": "to work for you."
+      },
+      "content": "We help leading companies worldwide keep their digital realms secure via hands-on consulting, vulnerability management, penetration testing and more.",
+      "buttonText": "INQUIRE NOW"
     }
   }
 }
