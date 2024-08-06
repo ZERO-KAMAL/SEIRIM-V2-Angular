@@ -1,7 +1,7 @@
 {
   "navbar": {
-    "service": "service",
-    "caseStudy": "case study",
+    "service": "services",
+    "caseStudy": "case studies",
     "company": "Company",
     "resources": "resources",
     "contact": "contact"
